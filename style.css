@@ -41,7 +41,7 @@ body {
   background-color: var(--white--);
 }
 
-.first-paragraph {
+.first-info {
   font-family: var(--font-secondary--);
   text-transform: uppercase;
   margin: 35px 0px 20px 30px;
